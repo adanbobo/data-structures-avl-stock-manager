@@ -1,6 +1,6 @@
 # data-structures-avl-stock-manager
 # AVL Stock Manager
-##GRADE: 100/100
+## GRADE: 100/100
 
 ##  Overview
 This project implements a stock management system using an AVL Tree as part of a Data Structures course.
