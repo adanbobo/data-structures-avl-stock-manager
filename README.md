@@ -6,6 +6,10 @@ This project implements a stock management system using an AVL Tree as part of a
 
 The system efficiently manages stock price updates over time, supporting fast queries, insertions, and deletions while maintaining a balanced tree structure.
 
+##  Academic Context
+Developed as part of a university Data Structures course.  
+Final grade: **100**
+
 ## Core Concepts
 - AVL Tree (self-balancing binary search tree)
 - Logarithmic time complexity operations
@@ -39,9 +43,6 @@ Each stock is identified by a unique `stockId` and maintains a history of price 
 - Validates price updates
 - Ensures proper handling of edge cases (e.g., empty structures)
 
-##  Academic Context
-Developed as part of a university Data Structures course.  
-Final grade: **100**
 
 ##  Technologies
 - Java
