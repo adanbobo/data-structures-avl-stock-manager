@@ -1,14 +1,14 @@
 # data-structures-avl-stock-manager
 # AVL Stock Manager
 
+#GRADE : 100/100
+
 ##  Overview
 This project implements a stock management system using an AVL Tree as part of a Data Structures course.
 
 The system efficiently manages stock price updates over time, supporting fast queries, insertions, and deletions while maintaining a balanced tree structure.
 
-##  Academic Context
-Developed as part of a university Data Structures course.  
-Final grade: **100**
+
 
 ## Core Concepts
 - AVL Tree (self-balancing binary search tree)
