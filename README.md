@@ -1,18 +1,18 @@
 # data-structures-avl-stock-manager
 # AVL Stock Manager
 
-## 📌 Overview
+##  Overview
 This project implements a stock management system using an AVL Tree as part of a Data Structures course.
 
 The system efficiently manages stock price updates over time, supporting fast queries, insertions, and deletions while maintaining a balanced tree structure.
 
-## 🧠 Core Concepts
+## Core Concepts
 - AVL Tree (self-balancing binary search tree)
 - Logarithmic time complexity operations
 - Time-based data management (timestamps)
 - Efficient range queries
 
-## ⚙️ Features
+##  Features
 - Initialize stock system
 - Add new stocks with initial price
 - Remove stocks
@@ -22,7 +22,7 @@ The system efficiently manages stock price updates over time, supporting fast qu
 - Count number of stocks within a price range
 - Retrieve stock IDs within a price range
 
-## ⏱ Time Complexity
+## Time Complexity
 - Insert / Remove / Update: **O(log N)**
 - Range queries: **O(log N + K)**
 - Search operations: **O(log N)**
